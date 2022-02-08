@@ -1,5 +1,7 @@
 # Demo of Dorametrix Bitbucket Pipe
 
+This repository demonstrates using the [Dorametrix Bitbucket Pipe](https://github.com/mikaelvesavuori/demo-dorametrix-pipe).
+
 **View `bitbucket-pipelines.yml` for details.**
 
 _Something is a bit wonky when it comes to expanding the environment variables; the solution presented should be "by the letter", though._

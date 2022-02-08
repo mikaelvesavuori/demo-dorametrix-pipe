@@ -1,0 +1,13 @@
+image:
+  name: atlassian/default-image:3
+
+pipelines:
+  default:
+  - step:
+      name: Dorametrix
+      script:
+        - pipe: docker://mikaelvesavuori/dorametrix-pipe:1.0.0
+          variables:
+            ENDPOINT: "$ENDPOINT"
+            API_KEY: "$API_KEY"
+            PRODUCT: "$BITBUCKET_REPO_SLUG"

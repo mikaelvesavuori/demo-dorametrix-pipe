@@ -1,6 +1,6 @@
 # Demo of Dorametrix Bitbucket Pipe
 
-This repository demonstrates using the [Dorametrix Bitbucket Pipe](https://github.com/mikaelvesavuori/demo-dorametrix-pipe).
+This repository demonstrates using the [Dorametrix Bitbucket Pipe](https://github.com/mikaelvesavuori/dorametrix-pipe).
 
 **View `bitbucket-pipelines.yml` for details.**
 
